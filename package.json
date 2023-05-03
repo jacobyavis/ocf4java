@@ -1,0 +1,22 @@
+{
+  "name": "ocf4java",
+  "version": "1.0.0",
+  "description": "Java class generation for Open Cap Table Format (OCF)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobyavis/ocf4java.git"
+  },
+  "keywords": [
+    "ocf"
+  ],
+  "author": "Jacob Yavis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobyavis/ocf4java/issues"
+  },
+  "homepage": "https://github.com/jacobyavis/ocf4java#readme"
+}
